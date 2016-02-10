@@ -9,6 +9,7 @@ author:
   name: 'Josh Gerdes'
   email: josh@joshgerdes.com
   twitter_username: joshgerdes
+  facebook_username: joshgerdes
   github_username:  joshgerdes
   linkedin_username:  joshgerdes
 
@@ -17,7 +18,7 @@ destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   # use Github Flavored Markdown
